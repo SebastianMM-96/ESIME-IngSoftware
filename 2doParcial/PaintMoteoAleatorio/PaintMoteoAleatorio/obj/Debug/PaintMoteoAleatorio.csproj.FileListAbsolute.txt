@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\bin\Debug\PaintMoteoAleatorio.exe.config
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\bin\Debug\PaintMoteoAleatorio.exe
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\bin\Debug\PaintMoteoAleatorio.pdb
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.exe
+C:\Users\sebas\source\repos\2doParcial\PaintMoteoAleatorio\PaintMoteoAleatorio\obj\Debug\PaintMoteoAleatorio.pdb

@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.pdb
+C:\Users\sebas\source\repos\2doParcial\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
