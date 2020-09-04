@@ -1,0 +1,9 @@
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\bin\Debug\Proyecto1_Oper_In_Array.exe.config
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\bin\Debug\Proyecto1_Oper_In_Array.exe
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\bin\Debug\Proyecto1_Oper_In_Array.pdb
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.exe
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.pdb
+C:\Users\sebas\source\repos\2doParcial\Proyecto1_Oper_In_Array\Proyecto1_Oper_In_Array\obj\Debug\Proyecto1_Oper_In_Array.csproj.CoreCompileInputs.cache
