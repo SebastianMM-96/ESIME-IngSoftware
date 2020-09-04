@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\bin\Debug\ThePaint.exe.config
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\bin\Debug\ThePaint.exe
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\bin\Debug\ThePaint.pdb
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.exe
+C:\Users\sebas\source\repos\2doParcial\ThePaint\ThePaint\obj\Debug\ThePaint.pdb
