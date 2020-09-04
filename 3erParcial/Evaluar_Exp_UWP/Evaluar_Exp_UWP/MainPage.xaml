@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Evaluar_Exp_UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Evaluar_Exp_UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBox x:Name="tBx" HorizontalAlignment="Left" Margin="202,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="32" Width="131"/>
+        <TextBlock x:Name="Dato" HorizontalAlignment="Left" Margin="79,254,0,0" TextWrapping="Wrap" Text="Ingresa el dato x" VerticalAlignment="Top" />
+        <Button x:Name="Exp" Content="Calcular exp" Margin="368,244,0,0" VerticalAlignment="Top" Width="100" Click="Exp_Click"/>
+        <ListBox x:Name="lbResul" HorizontalAlignment="Left" Height="490" Margin="502,58,0,0" VerticalAlignment="Top" Width="276"/>
+    </Grid>
+</Page>
