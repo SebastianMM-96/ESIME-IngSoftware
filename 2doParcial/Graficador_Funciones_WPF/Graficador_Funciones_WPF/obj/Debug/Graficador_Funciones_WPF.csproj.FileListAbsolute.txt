@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\bin\Debug\Graficador_Funciones_WPF.exe.config
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\bin\Debug\Graficador_Funciones_WPF.exe
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\bin\Debug\Graficador_Funciones_WPF.pdb
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\App.g.cs
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF_MarkupCompile.cache
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF_MarkupCompile.lref
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\MainWindow.baml
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.g.resources
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.exe
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.pdb
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\Graficador_Funciones_WPF\Graficador_Funciones_WPF\obj\Debug\Graficador_Funciones_WPF.csproj.CoreCompileInputs.cache
