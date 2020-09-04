@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\bin\Debug\Tratamiento_Matrices.exe.config
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\bin\Debug\Tratamiento_Matrices.exe
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\bin\Debug\Tratamiento_Matrices.pdb
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.exe
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.pdb
+C:\Users\sebas\source\repos\2doParcial\Tratamiento_Matrices\Tratamiento_Matrices\obj\Debug\Tratamiento_Matrices.csproj.CoreCompileInputs.cache

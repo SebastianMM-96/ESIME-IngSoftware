@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\bin\Debug\Despertador_Alarma.exe.config
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\bin\Debug\Despertador_Alarma.exe
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\bin\Debug\Despertador_Alarma.pdb
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.exe
+C:\Users\sebas\source\repos\2doParcial\Despertador_Alarma\Despertador_Alarma\obj\Debug\Despertador_Alarma.pdb

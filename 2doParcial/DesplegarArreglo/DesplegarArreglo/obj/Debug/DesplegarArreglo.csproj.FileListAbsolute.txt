@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\bin\Debug\DesplegarArreglo.exe.config
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\bin\Debug\DesplegarArreglo.exe
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\bin\Debug\DesplegarArreglo.pdb
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.Form1.resources
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.Properties.Resources.resources
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.exe
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.pdb
+C:\Users\sebas\source\repos\2doParcial\DesplegarArreglo\DesplegarArreglo\obj\Debug\DesplegarArreglo.csproj.CoreCompileInputs.cache
