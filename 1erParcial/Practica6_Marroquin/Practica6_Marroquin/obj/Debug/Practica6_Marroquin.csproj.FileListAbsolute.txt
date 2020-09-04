@@ -1,0 +1,9 @@
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\bin\Debug\Practica6_Marroquin.exe.config
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\bin\Debug\Practica6_Marroquin.exe
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\bin\Debug\Practica6_Marroquin.pdb
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.Form1.resources
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.Properties.Resources.resources
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.exe
+C:\Users\sebas\source\repos\Practica6_Marroquin\Practica6_Marroquin\obj\Debug\Practica6_Marroquin.pdb
